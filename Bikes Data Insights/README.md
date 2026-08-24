@@ -8,7 +8,9 @@ This project analyzes a Bike Store sales dataset using SQL to solve real busines
 
 
 
-
+<p align="center">
+  <img src="presentation.pdf" width="900">
+</p>
 
 **Tools Used**
 
