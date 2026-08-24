@@ -6,7 +6,7 @@
 
 This project analyzes a Bike Store sales dataset using SQL to solve real business problems. The analysis focuses on customer behavior, product performance, sales trends, revenue analysis, and business reporting. The project demonstrates SQL concepts such as Joins, CTEs, Aggregate Functions, Window Functions, CASE Statements, Date Functions, and Business Analytics.
 
-## You can View presentation below
+## Click below to view the presentation
 
 <p align="center">
   <a href="presentation.pdf">
