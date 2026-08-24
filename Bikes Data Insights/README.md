@@ -22,9 +22,7 @@ Bikes Sales Dataset
 
 **How to use this ?**
 
-- **Step 1**
-
-Download this Folder.
+- **Step 1** Download this Folder.
 
 - **Step 2**
 Open MySQL Workbench and create a new database.
