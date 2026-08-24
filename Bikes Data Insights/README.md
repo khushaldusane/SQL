@@ -1,4 +1,4 @@
-**🚴 Bike Store Sales Analysis using SQL**
+# 🚴 Bike Store Sales Analysis using SQL
 
 
 
@@ -10,7 +10,7 @@ This project analyzes a Bike Store sales dataset using SQL to solve real busines
 
 <p align="center">
   <a href="presentation.pdf">
-    <img src="presentation-preview.png" width="900" alt="Bike Store Sales Analysis Presentation">
+    <img src="1.jpp" width="900" alt="Bike Store Sales Analysis Presentation">
   </a>
 </p>
 **Tools Used**
