@@ -17,21 +17,27 @@ This project analyzes a Bike Store sales dataset using SQL to solve real busines
 **Tools Used**
 
 MySQL Workbench
+
 Bikes Sales Dataset
 
 **How to use this ?**
-**Step 1**
+
+- **Step 1**
 
 Download this Folder.
-**Step 2**
+
+- **Step 2**
 Open MySQL Workbench and create a new database.
   CREATE DATABASE bikes;
   USE bikes;
-**Step 3**
+
+- **Step 3**
 Import all CSV files from the Dataset folder into their respective tables using Table Data Import Wizard in MySQL Workbench.
-**Step 4**
+
+- **Step 4**
 Open the 01.sql file.
-**Step 5**
+
+- **Step 5**
 Run each query to explore business insights and analyze the dataset.
 
 **📌 Note**
