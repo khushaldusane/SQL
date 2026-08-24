@@ -9,7 +9,7 @@ This project analyzes a Bike Store sales dataset using SQL to solve real busines
 ## Click below to view the presentation
 
 <p align="center">
-  <a href="presentation.pdf">
+  <a href="Presentation.pdf">
     <img src="1.jpg" width="900" alt="Bike Store Sales Analysis Presentation">
   </a>
 </p>
